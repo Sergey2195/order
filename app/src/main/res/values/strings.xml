@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">order</string>
+    <string-array name="Tea">
+        <item>Black</item>
+        <item>Green</item>
+    </string-array>
+    <string-array name="Coffee">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+    </string-array>
 </resources>
